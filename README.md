@@ -1,2 +1,2 @@
 # Portfolio
-A compilation of my coding throughout the years
+A compilation of the highlights of my coding throughout the years
